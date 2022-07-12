@@ -285,12 +285,12 @@ DarkGray = outer_func('\033[90m')
 
 ''' BANNER '''
 def banner():
-    print(Fore.LIGHTMAGENTA_EX +'''          ███████╗██████╗░░█████╗░███╗░░██╗  ░█████╗░███████╗██████╗░
-          ██╔════╝██╔══██╗██╔══██╗████╗░██║  ██╔══██╗██╔════╝██╔══██╗
-          █████╗░░██████╔╝███████║██╔██╗██║  ███████║█████╗░░██████╔╝
-          ██╔══╝░░██╔══██╗██╔══██║██║╚████║  ██╔══██║██╔══╝░░██╔═══╝░
-          ██║░░░░░██║░░██║██║░░██║██║░╚███║  ██║░░██║██║░░░░░██║░░░░░
-          ╚═╝░░░░░╚═╝░░╚═╝╚═╝░░╚═╝╚═╝░░╚══╝  ╚═╝░░╚═╝╚═╝░░░░░╚═╝░░░░░''')
+    print(Fore.LIGHTRED_EX +'''		________                                        ________                 
+		_ _  __/______________ ________         ______ ____  __/________         
+		__  /_  __  ___/_  __ `/__  __ \        _  __ `/__  /_  ___  __ \        
+		_  __/  _  /    / /_/ / _  / / /        / /_/ / _  __/  __  /_/ /        
+		_/     /_/     \__,_/  /_/ /_/ ________\__,_/  /_/     _  .___/ ________
+		                                _/_____/                /_/      _/_____/''')
     
 
 
@@ -331,9 +331,9 @@ def search():
                 match = False
             YELLOW(f'\n{url} - {r.status_code} - OK')
             if username in r.text:
-                print(Fore.LIGHTGREEN_EX + f'[FranDox] POSITIVO : Nombre de Usuario:{username} - Este nombre de usuario ha sido detectado en esta url')
+                print(Fore.LIGHTGREEN_EX + f'[FranDox] POSITIVO : Nombre de Usuario:{username} -Este nombre de usuario ha sido detectado en esta url')
             else:
-                print(Fore.LIGHTRED_EX + f'[FranDox] NEGATIVO : Nombre de Usuario:{username} - \033[91m Este nombre de usuario no ha sido detectado en esta url, POSIBLE FALSO NEGATIVO.')
+                print(Fore.LIGHTRED_EX + f'[FranDox] NEGATIVO : Nombre de Usuario:{username} -\033[91m Este nombre de usuario no ha sido detectado en esta url, POSIBLE FALSO NEGATIVO.')
         count += 1
 
     total = len(WEBSITES)
