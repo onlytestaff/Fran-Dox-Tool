@@ -8,42 +8,11 @@ Despues de eso podeis abrir el archivo python o para hacerlo mas automatico pode
 
 Libre de personalizaciones o cambios, se agradecen creditos <3
 
-## Panda Shop
 
-Mi shop donde tenemos muchas cosas:
+# Credits
+ 
 
-· Che4ts de todos los juegos
+- Si, se que da pena pero es lo primero que hice y me hace ilusion dejarlo
+como recuerdo jeje
 
-· Bases de FiveM
-
-· Cuentas de todo tipo
-
-· Generador de cuentas
-
-· Programacion de bots
-
-· Y muchas cosas mas !
-
-~ Invitacion : https://discord.gg/BStjvRtHMm
-
-## Panda W00fer
-
-Nuestro W00fer es el mejor del mercado ahora mismo.
-Tiene diferentes planes, LifeTime, Weekly, Monthly y mas
-Panda W00fer: https://discord.gg/BStjvRtHMm
-
-· EZ hardware unban.
-
-· EZ cfx unban.
-
-· EZ server unban
-
-· EZ all servers unban.
-
-· No hace falta VPN
-
-· 1 click = unban !!!!
-
-## Mi comunidad
-
-Esta es mi pequeña comunidad: https://discord.gg/Q5uu3XZQKp
+- https://franafp.es
