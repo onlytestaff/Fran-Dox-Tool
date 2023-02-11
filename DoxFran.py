@@ -27,7 +27,7 @@ class bcolors:
     White        = "\033[97m"
 
 ''' PON EL NOMBRE A QUIEN QUIERES DOXEAR :) '''
-username = input('\033[92m{+} Introduce el nombre: ')
+username = input('\033[92m{+} Introduce el nombre: ')João Batista Da Paz Brito Neto
 
 
 # INSTAGRAM
